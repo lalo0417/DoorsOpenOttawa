@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_a0b50bcdc7e5a62aa48079f5876af2c05d7e4dd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.0_aaff83d232b223dc9e2cebbc06b1140e7474fe64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1418198c9849be6b8c08e102d88ac26555ed4cbf">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99043fb925c09eaaa10b8b8cabe0680349298dce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.0_91f56856dad4cf9f0c125c5af5c9c81f6d3a0304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_b81b9a44764b0b844729d3facd8eee54c79c3e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d919ada1becd62b5eda98433910e4e241bf289cc">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/DoorOpenOttawa/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1fcf0e7413ca042e35931392d2e581f95148a70/classes.dex" />
+    </item>
+
+</items>
